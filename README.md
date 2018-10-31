@@ -1,0 +1,2 @@
+# ssticker_policy
+StickerAppPolicy
